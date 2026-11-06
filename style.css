@@ -1,0 +1,37 @@
+body {
+background-color: #f5f5f5;
+font-family: Arial, sans-serif;
+max-width: 40rem;
+margin: 40px auto;
+}
+
+h1 {
+color: #b22222;
+text-align: center;
+}
+
+form {
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+
+textarea {
+width: 100%;
+}
+
+button {
+background-color: #b22222;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+}
+
+#menu-text {
+white-space: pre-line;
+background-color: #222222;
+color: white;
+padding: 15px;
+border-radius: 10px;
+}
